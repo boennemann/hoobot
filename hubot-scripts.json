@@ -7,6 +7,7 @@
   "github-search.coffee",
   "github-status.coffee",
   "hangout.coffee",
+  "mite.coffee",
   "npm.coffee",
   "pomodoro.coffee",
   "travis.coffee",
