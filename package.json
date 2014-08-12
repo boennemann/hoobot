@@ -21,9 +21,16 @@
     "url": "https://github.com/github/hubot.git"
   },
   "dependencies": {
+    "date-utils": "^1.2.16",
+    "githubot": "^1.0.0-beta2",
+    "htmlparser": "^1.7.7",
     "hubot": ">= 2.6.0 < 3.0.0",
     "hubot-irc": "^0.2.7",
-    "hubot-scripts": ">= 2.5.0 < 3.0.0"
+    "hubot-scripts": ">= 2.5.0 < 3.0.0",
+    "ntwitter": "^0.5.0",
+    "soupselect": "^0.2.0",
+    "underscore": "^1.6.0",
+    "underscore.string": "^2.3.3"
   },
   "engines": {
     "node": ">= 0.8.x",

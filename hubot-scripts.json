@@ -1,4 +1,19 @@
 [
+  "advice.coffee",
+  "github-activity.coffee",
+  "github-issue-link.coffee",
+  "github-issues.coffee",
+  "github-pulls.coffee",
+  "github-search.coffee",
+  "github-status.coffee",
+  "hangout.coffee",
+  "npm.coffee",
+  "pomodoro.coffee",
+  "travis.coffee",
+  "tweet-content.coffee",
+  "wikipedia.coffee",
+  "xkcd.coffee",
+  "yoda-quotes.coffee",
   "redis-brain.coffee",
   "shipit.coffee"
 ]
