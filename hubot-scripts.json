@@ -9,6 +9,7 @@
   "github-pulls.coffee",
   "github-search.coffee",
   "github-status.coffee",
+  "good-night.coffee",
   "hangout.coffee",
   "mite.coffee",
   "npm.coffee",
