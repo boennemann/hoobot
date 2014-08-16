@@ -16,8 +16,6 @@
 moins = [
   'Breathe.\nLet Go.\nAnd remind yourself that this very moment is the only one you know you have for sure. Good Morning\n'
   'Lovely wishes 2 a Lovely Person on a Lovely Day.\n'
-  'Always ask God to give you what you deserve &amp; not what you desire.\nYour desires may be few but you deserve a lot.\nHave a Great Day!\n'
-  'Someday somehow whatever you prayed for will come true\nit may not be in the exact package you wanted\nbut it\'ll be what God thinks is best for you.\nHave Faith Today.\n'
   'Confidence comes naturally with success.\nBut success comes only\nto those who are confident\nso, begin your day with confidence.\n'
   'You can’t bring back yesterday,\nYou can’t look into tomorrow.\nSo the only gift you have is today.\nThat is why it’s called the present.\n'
   'You have a cute yawn on your face,\nA cup of coffee in your hands.\nAll that remains is a good morning message from me.\nHave a great morning!'
@@ -26,15 +24,11 @@ moins = [
   'Sweet be the home where you tarry,\nLight be the load that you carry.\nSmooth be the road where you proceed,\nHappy be the day that you foresee!\n'
   'A smile is -\nThe lighting system of the face,\nThe cooling system of the brain\nThe healing system of the heart.\nKeep smiling always.\nHave a Nice Day\n'
   'A Morning is like a True Friend\nYou can’t have them with you always\nBut you can be sure they’ll be around\nWhen you wake up today, tomorrow and forever\nGood Morning, My Friend!\n'
-  'God will not give you a burden you can’t handle.\nSo, if you find yourself in a mess that’s impossible,\nTake it as a compliment - God thinks you can do it!\nGood morning!\n'
   'The Sun peeps through the curtains\nAnd sees us wrapped\nIn each other’s arms.\nGood Morning my Love!\n'
   'You are the light of my world,\nThe music in my heart and\nThe first thought of my day.\nGood Morning My Dear.\n'
   'A cup of hot hello,\nA plate of crispy wishes,\nA spoon of sweet smiles &amp;\nA slice of great success - for u\nEnjoy they day!\n***Good Morning***!\n'
-  'Morning is not only the start of a new day\nbut a miracle of God\nthat says darkness will always be followed by light.\nHave Hope and a very Good Day.\n'
   'Every sunset gives us,\nOne day less to live!\nBut every sunrise give us,\nOne day more to hope!\nSo, hope for the best.\nGood Day Good Luck And Good Morning\n'
   'A breeze awakens the earth.\nThe sun colors the sky.\nThe birds enliven the world.\nHave a Beautiful Morning!\n'
-  'A smile to start your day,\nA prayer to bless your way.\nA song to lighten your burden\nA message to wish you good day\nGood Morning!\n'
-  'Knock!!!Knock!!!\nMay I come into your world?\nI bring no flowers, No cakes,\nBut wishes to keep you fresh,\nPrayer to keep you healthy,\nAnd love to keep you smiling…\nGood Morning….\n'
   'Night has ended yesterday,\nmorning brings another day.\nMay you smile like the sunny rays\nand leave your worries at the bright blue bay.\nGood Morning!\n'
   'It makes me so happy,\nthis is what I’m gonna do,\nSend a good morning message\nright back to you,\nGood Morning my Friend.\n'
   '5 Steps to a Lovely Morning:\nOpen your eyes.\nTake a deep breath.\nThrow aside the covers.\nGet up from bed.\nAnd read my message.\nGood Morning my love.\n'
@@ -46,7 +40,6 @@ moins = [
   'Smile! Because you have just received a text message from someone who cares. Good Morning!\n'
   'One of the joys in life is waking up each day with the thought that somewhere, someone cares enough to send you a warm morning greeting! Good morning and enjoy the day!\n'
   'Smile can open a heart faster than\na key can open a door..So brighten the world with your smiles. Good Morning!\n'
-  'God gives us dreams at night so that we can turn them into reality during the day. Good Morning and have a successful day.\n'
   'On the dark horizon soon\nnew light rays will appear.\nThey will signify to all the world\na brand new day is here\nGood Morning\n'
   'A Morning is a Wonderful Blessing, whether Cloudy or Sunny.\nIt stands for Hope, giving us another start at what we call Life.\nHave a Good Morning &amp; a Nice Day.\n'
   'Life is like a book. Each day like a new page. So let the first words you write be Good Morning to you my love!\n'
@@ -63,7 +56,6 @@ moins = [
   'When we think about problems they grow double; but when we laugh about them, they become bubbles. Quit worrying and Good Morning!\n'
   'Train your mouth and heart such that you can say the right way for the right reasons. Good Morning and have a Good Day!\n'
   'Let go of what kills you. And hold on to what keeps you breathing. Good Morning!\n'
-  'Anyone can slay a dragon, but try waking up every morning and loving the world all over again. That’s what takes a real hero. God bless and Good Morning!'
 ]
 
 module.exports = (robot) ->
