@@ -19,5 +19,5 @@ beer = [
 ]
 
 module.exports = (robot) ->
-  robot.hear /.*(beer’o’clock).*/i, (msg) ->
+  robot.hear /.*(beer[’'\s]+o[’'\s]+clock).*/i, (msg) ->
     msg.send 'it’s always beer’o’clock. ' + msg.random beer
