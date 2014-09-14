@@ -1,0 +1,13 @@
+language: node_js
+node_js:
+- '0.11'
+notifications:
+  email: false
+script: echo 'yaaay'
+deploy:
+  provider: heroku
+  api_key:
+    secure: Ts3bVVFgweWLBuMLy+GrYvvPhoJJuONyLZQR4qZEbT4qRTAmxqxLHczSeh8WMI9FVjc3c8xU3Lm6c1FkNkDBCt6xThYs9ZqLoSy/oXiKoTJ5ZJcYC/byywDlgyJtYhS5ynPTcp7U8POW65MW+ZGndvDX03l9SNLqS0WLTClYUDY=
+  app: hoodie-hubot
+  on:
+    repo: boennemann/hoobot
