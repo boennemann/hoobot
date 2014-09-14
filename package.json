@@ -25,6 +25,7 @@
     "githubot": "^1.0.0-beta2",
     "htmlparser": "^1.7.7",
     "hubot": ">= 2.6.0 < 3.0.0",
+    "hubot-dogeme": "^1.0.0",
     "hubot-irc": "^0.2.7",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
     "ntwitter": "^0.5.0",
@@ -35,8 +36,5 @@
   "engines": {
     "node": ">= 0.8.x",
     "npm": ">= 1.1.x"
-  },
-  "devDependencies": {
-    "hubot-dogeme": "^1.0.0"
   }
 }
