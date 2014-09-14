@@ -21,4 +21,4 @@ nope = [
 
 module.exports = (robot) ->
   robot.hear /.*(can we make this).*/i, (msg) ->
-    msg.send 'NO! Now focus!' + msg.random no
+    msg.send 'NO! Now focus!' + msg.random nope
