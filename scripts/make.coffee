@@ -13,7 +13,7 @@
 # Author:
 #  zoepage
 
-no = [
+nope = [
   ':speak_no_evil:',
   ':hear_no_evil:',
   ':see_no_evil:'
@@ -21,4 +21,4 @@ no = [
 
 module.exports = (robot) ->
   robot.hear /.*(can we make this).*/i, (msg) ->
-    msg.send 'NO! Now focus! + msg.random no
+    msg.send 'NO! Now focus!' + msg.random no
