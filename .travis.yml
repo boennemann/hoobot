@@ -7,7 +7,7 @@ script: echo 'yaaay'
 deploy:
   provider: heroku
   api_key:
-    secure: Ts3bVVFgweWLBuMLy+GrYvvPhoJJuONyLZQR4qZEbT4qRTAmxqxLHczSeh8WMI9FVjc3c8xU3Lm6c1FkNkDBCt6xThYs9ZqLoSy/oXiKoTJ5ZJcYC/byywDlgyJtYhS5ynPTcp7U8POW65MW+ZGndvDX03l9SNLqS0WLTClYUDY=
+    secure: LndCOmbE4A0wDn1jpRT6r3SYr1Cu7akufHIvPKM2+mf7A02gPt1WoRSDDku/VW1Lj9TGUa1VG6RDPuMQbLC/DAS1WqxQZR3uxDK4BPMkfrUbH77shlm0S1eCpnMjFlDHWlPPuL6xUCjwzJLWEDJV5aR+BXtnhkCRaAg/sqQr9KM=
   app: hoodie-hubot
   on:
     repo: boennemann/hoobot
