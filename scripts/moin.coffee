@@ -59,5 +59,5 @@ moins = [
 ]
 
 module.exports = (robot) ->
-  robot.hear /(moin|good morning)/i, (msg) ->
+  robot.hear /(moinsens)/i, (msg) ->
     msg.send msg.random moins
