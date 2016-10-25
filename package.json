@@ -27,11 +27,11 @@
     "hubot": ">= 2.6.0 < 3.0.0",
     "hubot-dogeme": "^1.0.0",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
-    "hubot-slack": "^2.2.0",
+    "hubot-slack": "^4.2.1",
     "ntwitter": "^0.5.0",
     "soupselect": "^0.2.0",
     "underscore": "^1.6.0",
-    "underscore.string": "^2.3.3"
+    "underscore.string": "^3.3.4"
   },
   "engines": {
     "node": ">= 0.8.x",
